@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/jaatmovie1231">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/jaatmovie1231>[Jaat Moviess]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+y-d-YdGnh7MzNTU1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/+y-d-YdGnh7MzNTU1>[Movies Adda]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
