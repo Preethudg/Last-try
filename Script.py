@@ -16,12 +16,13 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>♥ಕನ್ನಡಿಗ</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
 ├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ4.8 [ ꜱᴛᴀʙʟᴇ ]
+├⍟ 𝙲𝙴𝙾 : ♥ಕನ್ನಡಿಗ
 ╰───────────────⍟</b>"""
         
     CHANNELS = """
@@ -280,15 +281,19 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """<b><a href="https://t.me/+y-d-YdGnh7MzNTU1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/+y-d-YdGnh7MzNTU1>[Movies Adda]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-📀 RunTime: {runtime} Minutes
-
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-Requested by : {message.from_user.mention}</b>"""
     
+├⍟ <b>🏷 Title</b>: <a href={url}>{title}</a>
+
+├⍟ 🎭 Genres: {genres}
+├⍟ 📆 Year: <a href={url}/releaseinfo>{year}</a>
+├⍟ 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+├⍟ 📀 RunTime: {runtime} Minutes
+
+├⍟ ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+├⍟ 👾Requested by : {message.from_user.mention}
+├⍟  𝙲𝙴𝙾 : ♥ಕನ್ನಡಿಗ
+╰───────────────⍟</b>"""
+
 
     RESTART_TXT = """
 <b>{} Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
